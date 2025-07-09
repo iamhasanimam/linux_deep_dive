@@ -4,18 +4,18 @@ RHCSA exam candidates should be able to accomplish the tasks below without assis
 ---
 ## Understand and use essential tools
 
--Access a shell prompt and issue commands with correct syntax
--Use input-output redirection (>, >>, |, 2>, etc.)
--Use grep and regular expressions to analyze text
--Access remote systems using SSH
--Log in and switch users in multiuser targets
--Archive, compress, unpack, and uncompress files using tar, gzip, and bzip2
--Create and edit text files
--Create, delete, copy, and move files and directories
--Create hard and soft links
--List, set, and change standard ugo/rwx permissions
--Locate, read, and use system documentation including man, info, and files in /usr/share/doc
--Create simple shell scripts
+- Access a shell prompt and issue commands with correct syntax
+- Use input-output redirection (>, >>, |, 2>, etc.)
+- Use grep and regular expressions to analyze text
+- Access remote systems using SSH
+- Log in and switch users in multiuser targets
+- Archive, compress, unpack, and uncompress files using tar, gzip, and bzip2
+- Create and edit text files
+- Create, delete, copy, and move files and directories
+- Create hard and soft links
+- List, set, and change standard ugo/rwx permissions
+- Locate, read, and use system documentation including man, info, and files in /usr/share/doc
+- Create simple shell scripts
 
 -Conditionally execute code (use of: if, test, [], etc.)
 -Use Looping constructs (for, etc.) to process file, command line input
