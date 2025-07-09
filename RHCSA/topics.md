@@ -1,4 +1,4 @@
-### Study points for the exam
+# Study points for the exam
 ---
 RHCSA exam candidates should be able to accomplish the tasks below without assistance. These have been grouped into several categories.
 ---
